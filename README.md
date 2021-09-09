@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sean Park
-## 📍 California
+📍 California
 ### Education
 - 📚 Currently pursuing BS in Computer Science at Oregon State University
 - 🎓 Graduated from University of California, San Diego in 2012 with a BA in Philosophy
