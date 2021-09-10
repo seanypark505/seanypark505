@@ -5,6 +5,8 @@
 - 🎓 Graduated from University of California, San Diego in 2012 with a BA in Philosophy
 
 If you want to connect you can find me on [Linkedin!](http://www.linkedin.com/in/seanypark)
+---
+<a href="https://app.daily.dev/seanypark"><img src="https://api.daily.dev/devcards/f43f4a317b5b4cc7bc8e8bc77003ce70.png?r=lyl" width="400" alt="Sean Park's Dev Card"/></a>
 
 
 <!--
