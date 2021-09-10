@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Sean Park
 📍 California
+### Experience
+- Software Engineer Intern, Cloud at Fluidra (June 2012 - August 2012)
 ### Education
 - 📚 Currently pursuing BS in Computer Science at Oregon State University
 - 🎓 Graduated from University of California, San Diego in 2012 with a BA in Philosophy
