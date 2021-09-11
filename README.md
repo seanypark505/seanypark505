@@ -1,9 +1,11 @@
 # 👋 Hello, I'm Sean Park
 📍 California
+
 ### Experience
-- Software Engineer Intern, Cloud at Fluidra (June 2012 - August 2012)
+- Undergraduate Teaching Assistant for CS290 Web Development @ Oregon State University (September 2021 - December 2021)
+- Software Engineer Intern, Cloud at Fluidra (June 2021 - August 2021)
 ### Education
-- 📚 Currently pursuing BS in Computer Science at Oregon State University
+- 📚 Currently pursuing BS in Computer Science at Oregon State University (Expected Graduation March 2023)
 - 🎓 Graduated from University of California, San Diego in 2012 with a BA in Philosophy
 
 If you want to connect you can find me on [Linkedin!](http://www.linkedin.com/in/seanypark)
