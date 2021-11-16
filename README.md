@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Sean Park
 📍 California
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/seanypark)
+
 ### Experience
 - Undergraduate Teaching Assistant for CS290 Web Development @ Oregon State University (September 2021 - December 2021)
 - Software Engineer Intern, Cloud at Fluidra (June 2021 - August 2021)
