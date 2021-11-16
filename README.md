@@ -6,8 +6,8 @@
 - Undergraduate Teaching Assistant for CS290 Web Development @ Oregon State University (September 2021 - December 2021)
 - Software Engineer Intern, Cloud at Fluidra (June 2021 - August 2021)
 ### Education
-- 📚 Currently pursuing BS in Computer Science at Oregon State University (Expected Graduation March 2023)
-- 🎓 Graduated from University of California, San Diego in 2012 with a BA in Philosophy
+- 📚 Oregon State University, BS in Computer Science, Expected Graduation March 2023
+- 🎓 University of California - San Diego, BA in Philosophy, 2008-2012
 
 <!--
 **seanypark505/seanypark505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
