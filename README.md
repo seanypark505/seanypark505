@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Sean Park
-📍 California
+<h1 align="center"> 👋 Hello, I'm Sean Park</h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/seanypark)
 
