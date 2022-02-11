@@ -9,7 +9,7 @@
 - **Software Engineer Intern** | Fluidra (June 2021 - August 2021)
 
 ### Education
-- 📚 Oregon State University | **BS in Computer Science** | Expected Graduation March 2023
+- 📚 Oregon State University | **BS in Computer Science** | Expected Graduation December 2022
 - 🎓 University of California - San Diego | **BA in Philosophy** | 2008-2012
 
-**Fun Fact:  I switched careers!  I was previously a Corporate Investigations & Internal Audit Manager for Goodwill Industries of Orange County from 2015 - 2021.**
+**Fun Fact:  I am switched careers!  I was previously a Corporate Investigations & Internal Audit Manager for Goodwill Industries of Orange County from 2015 - 2021.**
