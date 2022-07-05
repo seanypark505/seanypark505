@@ -5,7 +5,7 @@
 
 ### Experience
 - **Software Engineer Intern** | Paylocity (May 2022 - August 2022)
-- **Undergraduate Teaching Assistant** | Oregon State University (September 2021 - Present)
+- **Undergraduate Teaching Assistant** | Oregon State University (September 2021 - December 2022)
 - **Software Engineer Intern** | Fluidra (June 2021 - August 2021)
 
 ### Education
