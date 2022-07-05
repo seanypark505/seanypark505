@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/librvry_pictures)
 
 ### Experience
-- **Incoming Software Engineer Intern** | Paylocity (May 2022 - August 2022)
+- **Software Engineer Intern** | Paylocity (May 2022 - August 2022)
 - **Undergraduate Teaching Assistant** | Oregon State University (September 2021 - Present)
 - **Software Engineer Intern** | Fluidra (June 2021 - August 2021)
 
